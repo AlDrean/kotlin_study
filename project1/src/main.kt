@@ -1,3 +1,5 @@
+import java.lang.NumberFormatException
+
 fun calc(a: Int, b: Int, c: Int): Int {
     println("o bônus é: ${a + b + c}")
     return 0
@@ -14,21 +16,20 @@ fun compara(a: Int, b: Int): Int {
 fun soma(a: Int, b: Int) = a + b
 
 fun main() {
-    val a = 10
-    val b = 20
-    val c = 30
+    try {
+        println("asdasdad".toInt())
 
-    calc(a, b, c)
-    println("soma é ${soma(a, b)}")
+    }
+    catch(e: NumberFormatException)
+    {
+        println("faz uma conversão de gente aii, por favor")
+    }
+    catch (e: Exception) {
+        println("algo de errado não está certo")
+    }
+    finally {
+        println("Deu ruim, ein?")
+    }
 
-    var numero = 10
-    println("compara = ${compara(a, b)}")
-
-    numero = if (numero == 10) 1 else 2
-    println("${numero}")
-
-    // && and ||
-    // ?: -> elvis para verficar nullabilidade
-    //definição em var x:Int? == null
 
 }
