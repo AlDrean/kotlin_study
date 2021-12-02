@@ -22,4 +22,7 @@ fun main() {
     println("Cidade = $cidade")
 
 
+    //Variáveis mutáveis
+
+
 }
