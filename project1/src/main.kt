@@ -22,6 +22,13 @@ fun main() {
     println("soma é ${soma(a, b)}")
 
     var numero = 10
-    println("compara = ${compara(a,b)}")
+    println("compara = ${compara(a, b)}")
+
+    numero = if (numero == 10) 1 else 2
+    println("${numero}")
+
+    // && and ||
+    // ?: -> elvis para verficar nullabilidade
+    //definição em var x:Int? == null
 
 }
