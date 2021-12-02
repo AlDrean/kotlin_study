@@ -1,15 +1,18 @@
 fun main()
 {
-    //variáveis mutáveis
-    var nome = "lucas"
-    //variáveis Imutaveis
-    val constantMax = 40
+    val nome = "lucas"
+
+    var idade = 27
+    var olhos = "castanhos"
 
 
-    val iConstante:Int
+    println("o nome é $nome, $idade de olhos $olhos - [${olhos.length}]")
 
-    iConstante = 40
-    
+    val str = "Teste de quebra de linha:" +
+            "" +
+            "uia que curioso"
 
+
+    println(str)
 
 }
