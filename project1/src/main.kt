@@ -1,18 +1,12 @@
-fun main()
-{
-    val nome = "lucas"
+fun calc (a:Int, b:Int, c:Int):Int{
+    println("o bônus é: ${ a + b + c}")
+    return 0
+}
 
-    var idade = 27
-    var olhos = "castanhos"
+fun main() {
+    val a = 10
+    val b = 20
+    val c = 30
 
-
-    println("o nome é $nome, $idade de olhos $olhos - [${olhos.length}]")
-
-    val str = "Teste de quebra de linha:" +
-            "" +
-            "uia que curioso"
-
-
-    println(str)
-
+    calc(a, b, c)
 }
