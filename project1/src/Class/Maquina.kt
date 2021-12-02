@@ -21,7 +21,12 @@ open class Maquina(var marca: String) {
 }
 
 
-class Computador(marca: String, nucleos: Int) : Maquina {
+class Computador(marca: String, nucleos: Int) : Maquina(marca) {
+
+
+    var proprietario:Int? = null;
+
+
 
     override fun minhaMarca() {
         super.minhaMarca()
