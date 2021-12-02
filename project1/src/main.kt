@@ -31,5 +31,12 @@ fun main() {
         println("Deu ruim, ein?")
     }
 
+    val str:String? = null
+    println (str?.length)
+    if (str== null) println ("nuuuuuulll")
+
+    println(str!!.length)
+
+
 
 }
