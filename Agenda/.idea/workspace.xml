@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0696d98f-e96c-43d6-bbd7-5e5ef514c170" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/UI/MainForm.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/UI/MainForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/start.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agenda/UI/MainForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Agenda/UI/MainForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/UI/ContactForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/UI/ContactForm.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/UI/ContactForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/UI/ContactForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/UI/MainForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/UI/MainForm.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/UI/MainForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/UI/MainForm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project3/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project3/.gradle/7.1/dependencies-accessors/gc.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project3/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" />
@@ -105,5 +106,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
