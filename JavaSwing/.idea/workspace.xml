@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acd32be1-46eb-4d39-b4e8-0e9fdf9a3429" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSwing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/annotations-13.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/annotations-13.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/annotations-13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/apiguardian-api-1.1.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/apiguardian-api-1.1.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/apiguardian-api-1.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/junit-jupiter-api-5.6.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/junit-jupiter-api-5.6.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/junit-jupiter-api-5.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/junit-jupiter-engine-5.6.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/junit-jupiter-engine-5.6.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/junit-jupiter-engine-5.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/junit-platform-commons-1.6.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/junit-platform-commons-1.6.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/junit-platform-commons-1.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/junit-platform-engine-1.6.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/junit-platform-engine-1.6.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/junit-platform-engine-1.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/kotlin-stdlib-1.5.10-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/kotlin-stdlib-1.5.10-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/kotlin-stdlib-1.5.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/kotlin-stdlib-common-1.5.10-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/kotlin-stdlib-common-1.5.10-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/kotlin-stdlib-common-1.5.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/kotlin-test-1.5.10-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/kotlin-test-1.5.10-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/kotlin-test-1.5.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/kotlin-test-junit5-1.5.10-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/kotlin-test-junit5-1.5.10-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/kotlin-test-junit5-1.5.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/opentest4j-1.2.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/opentest4j-1.2.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/opentest4j-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/.gradle/7.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/.gradle/7.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/.gradle/7.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project3/gradlew.bat" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="21khOXLMvYpREA9e2F7FjfT9oSF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="JavaSwing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acd32be1-46eb-4d39-b4e8-0e9fdf9a3429" name="Changes" comment="" />
+      <created>1638490979736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638490979736</updated>
+    </task>
+    <servers />
+  </component>
+</project>
